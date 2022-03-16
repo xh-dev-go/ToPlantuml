@@ -1,4 +1,4 @@
-module github.com/xh-dev-go/ToPlantunm
+module github.com/xh-dev-go/ToPlantuml
 
 go 1.17
 
